@@ -1,0 +1,1 @@
+- Created my Business card with HTML, CSS from Scrimba.com tutorial. I made few changes to the project.
